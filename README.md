@@ -11,9 +11,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-## Demo
-
-[https://conversa-chating-app.netlify.app//](https://conversa-chating-app.netlify.app/)
 
 ![](https://github.com/rishikesh121/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
